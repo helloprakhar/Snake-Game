@@ -1,8 +1,6 @@
 Snake Game Readme
 Welcome to the Snake Game! This is a classic game where the player controls a snake and tries to eat food while avoiding collisions with the walls and the snake's own body.
 
-Game Preview:
-![The screenshot of the game.](<Screenshot (162).png>)
 
 Game Controls:
 Use the arrow keys (up, down, left, right) to control the snake's direction.
